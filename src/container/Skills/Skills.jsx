@@ -13,8 +13,7 @@ const Skills = () => {
             <div className="col-lg-6">
               <div className="skill__heading-1">
                 <h2 className="section__heading">
-                  Skills and <br />
-                  Experience
+                  Skills
                 </h2>
               </div>
               <div className="skill">

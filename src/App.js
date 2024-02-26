@@ -6,7 +6,7 @@ import {
   Project,
   Skills,
   Education,
-  FormikContact,
+  Contact,
 } from "./container";
 import { Navbar } from "./components";
 
@@ -29,7 +29,7 @@ const App = () => {
                 <Project />
                 <Skills />
                 <Education />
-                <FormikContact />
+                <Contact />
               </>
             }
           />

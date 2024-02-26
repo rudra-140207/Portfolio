@@ -1,7 +1,8 @@
+import images from "../constants/images"
 const education = [
     {
         key: 1,
-        img: "https://github.com/ssahibsingh/personalWebsite/blob/main/src/assets/education/nitj.png?raw=true",
+        img : images.kietLogo ,
         name: "KIET Group of Institutions , Ghaziabad (UP)",
         duration: "2022 - Present",
         education: "Electrical and Electronics",
@@ -9,7 +10,7 @@ const education = [
     },
     {
         key: 2,
-        img: "https://github.com/ssahibsingh/personalWebsite/blob/main/src/assets/education/msp.png?raw=true",
+        img: images.lpsLogo ,
         name: "Lucknow Public School , Raebareli (UP)",
         duration: "2020 - 2021",
         education: "Senior Secondary Education",
@@ -17,7 +18,7 @@ const education = [
     },
     {
         key: 3,
-        img: "https://github.com/ssahibsingh/personalWebsite/blob/main/src/assets/education/asm.png?raw=true",
+        img: images.lpsLogo ,
         name: "Lucknow Public School , Raebareli (UP)",
         duration: "2010 - 2019",
         education: "High School Education",
