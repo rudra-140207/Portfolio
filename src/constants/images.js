@@ -11,7 +11,7 @@ import cryptoGalaxy from "../assets/projects/cryptoGalaxy.png";
 import retrofiles from "../assets/projects/retrofiles.png";
 import urlShortner from "../assets/projects/urlShortner.png";
 import weatherApp from "../assets/projects/weatherApp.png";
-import newImage from "../assets/projects/image.png";
+import apiverse from "../assets/projects/apiverse-ss.png";
 
 // Education
 import kietLogo from "../assets/education/kietLogo.webp";
@@ -27,7 +27,7 @@ export default {
   retrofiles,
   urlShortner,
   weatherApp,
-  newImage,
+  apiverse,
   kietLogo,
   lpsLogo,
 };
